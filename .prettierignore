@@ -1,0 +1,7 @@
+**/node_modules/
+**/.next
+apps/**/.vscode/
+packages/**/.vscode/
+**/.swcrc
+**/tsconfig.json
+*.mdx
